@@ -1,0 +1,7 @@
+{
+  "name": "MielteCity - Build Faster",
+  "description": "A high-performance platform for developers to share and download ready-to-use production-grade code snippets and full projects. No tutorials, just pure utility.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
